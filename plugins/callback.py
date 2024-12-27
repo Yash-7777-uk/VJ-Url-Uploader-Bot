@@ -78,7 +78,7 @@ async def button(bot, update):
                 return
             except Exception:
                 await update.message.edit(
-                    text="Something went Wrong. Contact my [owner](https://t.me/kingvj01).",
+                    text="Something went Wrong. Contact my [owner](https://t.me/unknownkiller7777).",
                     disable_web_page_preview=True
                 )
                 return
